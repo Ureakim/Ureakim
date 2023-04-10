@@ -14,7 +14,7 @@
     "db": [ "Mongo", "MySql", "ElasticSearch"],
     "devops": ["Docker", "Portainer"],
     "tools": ["Neovim", "Jetbrains suite"],
-    "interest": ["Rust", "Micropython", "Go", ]
+    "interest": ["Rust", "Micropython", "Go", "PHP"]
   }
 }
 ```
