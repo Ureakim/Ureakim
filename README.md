@@ -1,8 +1,8 @@
 # 💻 Mickaël, Full Stack Developer
 ```json
 {
+  "location": "France",
   "technologies": {
-    "location": "France",
     "frontend": {
       "lang": ["JavaScript", "TypeScript"],
       "framework": ["React", "AngularJs", "Angular"],
