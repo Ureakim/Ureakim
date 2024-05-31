@@ -5,16 +5,16 @@
   "technologies": {
     "frontend": {
       "lang": ["JavaScript", "TypeScript"],
-      "framework": ["React", "AngularJs", "Angular"],
+      "framework": ["React", "AngularJs", "Angular", "HTMX"]
     },
     "backend": {
       "lang": ["Java"],
       "framework": ["Spring Boot", "J2ee"],
+      "interest": ["Rust", "Go"]
     },
     "db": [ "Mongo", "MySql", "ElasticSearch"],
     "devops": ["Docker", "Portainer"],
-    "tools": ["Neovim", "Jetbrains suite"],
-    "interest": ["Rust", "Micropython", "Go", "PHP"]
+    "tools": ["Neovim", "Jetbrains suite"]
   }
 }
 ```
